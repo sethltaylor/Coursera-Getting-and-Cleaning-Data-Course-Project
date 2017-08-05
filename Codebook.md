@@ -6,13 +6,13 @@ The intial dataset being worked with in this project is UCI's Human Activity Rec
 This analysis uses 8 files from the intial dataset:
 
 `features.txt`: A list of all features  
-`activity_labels.txt`: Links numeric identifier in y_train and y_test with activity label
+`activity_labels.txt`: Links numeric identifier in y_train and y_test with activity label  
 `train/X_train.txt`: Training set  
-`train/y_train.txt`: Training labels denoting activity
-`subject_train.txt`: Subject indentifiers for training set 
+`train/y_train.txt`: Training labels denoting activity  
+`subject_train.txt`: Subject indentifiers for training set   
 `test/X_test.txt`: Test set  
-`test/y_test.txt`: Test labels deonting activity 
-`subject_test.txt`: Subject indetifiers for test set
+`test/y_test.txt`: Test labels deonting activity   
+`subject_test.txt`: Subject indetifiers for test set  
 
 ## Analysis
 `run-analysis.R` is the script that:
